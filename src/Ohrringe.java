@@ -1,8 +1,8 @@
-public class Orringe {
+public class Ohrringe {
 
 
     @Override
     public String toString() {
-        return "Socke";
+        return "Ohrringe";
     }
 }
